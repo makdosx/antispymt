@@ -12,7 +12,7 @@ All functions work remotely via GSM (Global Mobile Communication System). </br><
 ![ant1](img/ant1.png) <br/><br/></br>
 ![ant2](img/ant2.png) <br/><br/></br>
 ![ant3](img/ant3.png) <br/><br/></br>
-![ant4](img/ant4.png) <br/><br/></br>
+![ant5](img/ant5.png) <br/><br/></br>
 
 
 
